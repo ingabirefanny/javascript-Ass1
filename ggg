@@ -1,0 +1,6 @@
+let upper = "wonderful";
+let uppercase = upper.toUpperCase();
+console.log({uppercase});
+let lower = "amazing";
+let Lowercase = lower.toLowerCase();
+console.log({Lowercase});
